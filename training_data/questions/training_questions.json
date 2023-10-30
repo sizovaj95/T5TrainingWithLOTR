@@ -1,0 +1,538 @@
+[
+    {
+        "Question": "He is Frodo's loyal friend who journeyed with him from Middle Earth to Mount Doom.",
+        "Answer": "Samwise Gamgee"
+    },
+    {
+        "Question": "What is the name of the Elven character with the blonde hair and blue eyes who was lethal with a bow and charming with his looks.",
+        "Answer": "Legolas"
+    },
+    {
+        "Question": "How many rings of power were made for the Elves, Dwarves, and Men?",
+        "Answer": "Three for the Elves, Seven for Dwarves, and Nine for Men."
+    },
+    {
+        "Question": "Which are referred to as the Two Watchers that form an invisible barrier that couldn't be passed through?",
+        "Answer": "Carved statues on the entrance to the Cirith Ungol Tower"
+    },
+    {
+        "Question": "Who released King Theoden from the spell of Saruman, which caused his appearance to make him look much older than he is.",
+        "Answer": "Gandalf"
+    },
+    {
+        "Question": "Which Ent carried Pippin and Merry through Fangorn Forest?",
+        "Answer": "Treebeard"
+    },
+    {
+        "Question": "How did Farmer Maggot protect the Bamfurlong farm from people?",
+        "Answer": "By placing three trained dogs called Wolf, Fang, and Grip"
+    },
+    {
+        "Question": "What is Bilbo's relation to Frodo?",
+        "Answer": "Frodo is Bilbo's second cousin."
+    },
+    {
+        "Question": "Who was sent to Rivendell by Denethor to find answers about a dream he had.",
+        "Answer": "Boromir"
+    },
+    {
+        "Question": "In the 'Lord of the Rings: The Fellowship of the Ring,' who said, \"I would rather share one lifetime with you than face all the Ages of this world alone\"?",
+        "Answer": "Arwen"
+    },
+    {
+        "Question": "What marks the end of the Third Age?",
+        "Answer": "The Third Age ended when Sauron is killed after the One Ring is destroyed."
+    },
+    {
+        "Question": "What is the name of the mountain where the Master Ring was made?",
+        "Answer": "Mount Doom"
+    },
+    {
+        "Question": "During Bilbo's birthday party, who were tasked to wash the dishes for stealing some fireworks from the back of Gandalf's wagon?",
+        "Answer": "Merry and Pippin"
+    },
+    {
+        "Question": "In 'The Hobbit,' what was the name of Thorin's Elven sword that originally came from Gondolin?",
+        "Answer": "Orcrist"
+    },
+    {
+        "Question": "What happened to Lobelia Sackville-Baggins after the War of the Rings?",
+        "Answer": "She died and donated her money to help the Hobbits affected by Lotho - her son."
+    },
+    {
+        "Question": "Name the last war against the armies of Mordor.",
+        "Answer": "The Last Alliance of Men and Elves."
+    },
+    {
+        "Question": "In 'Lord of the Rings: The Fellowship of the Ring,' Bilbo gives Frodo a powerful sword named \"Sting.\" This weapon has the magical ability to glow blue when which specific race is nearby?",
+        "Answer": "Orcs"
+    },
+    {
+        "Question": "Which ancient sword is known to be made by Telchar of Nogrod?",
+        "Answer": "Angrist"
+    },
+    {
+        "Question": "Which woman was Sam talking about in The Green Dragon.",
+        "Answer": "Rosie Cotton"
+    },
+    {
+        "Question": "In what place was the set of Hobbiton village taken?",
+        "Answer": "In the hillsides of the Waikato, Matamata (Northern New Zealand)"
+    },
+    {
+        "Question": "Name Sauron's fortress in Mordor",
+        "Answer": "Barad-dur"
+    },
+    {
+        "Question": "Who gave Frodo Baggins the Phial of Galadriel?",
+        "Answer": "Elf-queen Galadriel"
+    },
+    {
+        "Question": "Who did Sam eventually marry?",
+        "Answer": "Rosie Cotton"
+    },
+    {
+        "Question": "Which armies participated in the Battle of Isengard, also known as the Destruction of Isengard?",
+        "Answer": "The Ents vs. Sauron's forces"
+    },
+    {
+        "Question": "What is the name of the bridge that Gandalf destroys in the battle with Balrog?",
+        "Answer": "Khazad-dum Bridge"
+    },
+    {
+        "Question": "In the War of the Ring, which forest does Saruman order the Orcs to cut down?",
+        "Answer": "Fangorn Forest"
+    },
+    {
+        "Question": "Who used to own the Ring of Power until Bilbo Baggins picked it up in the cave?",
+        "Answer": "Gollum/Smeagol"
+    },
+    {
+        "Question": "What was the riddle that Gandalf could not figure out to open the door?",
+        "Answer": "\"speak friend and enter\""
+    },
+    {
+        "Question": "What is the name of the fictional metal which the armored chain shirt of Frodo made from?",
+        "Answer": "Mithril"
+    },
+    {
+        "Question": "What was Frodo stabbed with at the Skirmish at Weathertop?",
+        "Answer": "Morgul-knife"
+    },
+    {
+        "Question": "What was the name of Boromir's brother who died en route to Mordor When the Fellowship was torn?",
+        "Answer": "Faramir"
+    },
+    {
+        "Question": "Name Gollum's friend who he choked to get the Ring of Power?",
+        "Answer": "Deagol"
+    },
+    {
+        "Question": "What is the fake name that Frodo Baggins used after departing from the Shire?",
+        "Answer": "Mr. Underhill"
+    },
+    {
+        "Question": "What frightened the Orcs in the Mines of Moria?",
+        "Answer": "Balrog"
+    },
+    {
+        "Question": "Who is Isildur's heir, also heir to the throne of Gondor, and known as 'Strider' and 'Dunadan?'",
+        "Answer": "Aragorn"
+    },
+    {
+        "Question": "Name the spider, a fictional demon that Frodo fought bravely to recover the One Ring.",
+        "Answer": "Shelob"
+    },
+    {
+        "Question": "Name the Lord and Lady of Caras Galadhon.",
+        "Answer": "Lord Celeborn and Lady Galadriel"
+    },
+    {
+        "Question": "Who gives Aragorn the remade sword and asks him to take the Dimholt road to summon the Army of the Dead to fight for him?",
+        "Answer": "Elrond"
+    },
+    {
+        "Question": "Name Sam's favorite pony.",
+        "Answer": "Bill"
+    },
+    {
+        "Question": "What do you call the race of near-primordial spirits descended into Arda to shape the World with Valar, which Sauron used to belong to?",
+        "Answer": "Maiar"
+    },
+    {
+        "Question": "In 'The Lord Of The Rings: The Return Of The King,' which city does Faramir try to save?",
+        "Answer": "Osgiliath"
+    },
+    {
+        "Question": "When the Elves leave Middle Earth in 'The Lord Of The Rings: The Two Towers.' where do they go?",
+        "Answer": "The Undying Lands/Valinor"
+    },
+    {
+        "Question": "What are the names of the two towers?",
+        "Answer": "Minas Tirith and Minas Morgul"
+    },
+    {
+        "Question": "Na meSauron's second-in-command.",
+        "Answer": "The Witch-King of Angmar"
+    },
+    {
+        "Question": "Who are the two War of the Ring heroes?",
+        "Answer": "Boromir and Faramir"
+    },
+    {
+        "Question": "In 'The Lord Of The Rings: The Return Of The King,' which army does Aragorn summon using the Sword of Elendil?",
+        "Answer": "The Army of the Dead"
+    },
+    {
+        "Question": "Where do the hobbits live?",
+        "Answer": "The Shire"
+    },
+    {
+        "Question": "Which kingdom answers Gondor's calls for aid?",
+        "Answer": "Rohan"
+    },
+    {
+        "Question": "How many members of the Fellowship set out from Rivendell?",
+        "Answer": "9 (Frodo, Sam, Merry, Pippin, Gandalf, Legolas, Gimli, Aragorn and Boromir)"
+    },
+    {
+        "Question": "In what age is Lord of the Rings set?",
+        "Answer": "The Third Age"
+    },
+    {
+        "Question": "What is the name of the giant spider that attacks Frodo?",
+        "Answer": "Shelob"
+    },
+    {
+        "Question": "Who tosses Gimli at Helm's Deep?",
+        "Answer": "Aragorn"
+    },
+    {
+        "Question": "What forest did Merry and Pippin escape into in The Two Towers?",
+        "Answer": "Fangorn Forest"
+    },
+    {
+        "Question": "After Sauron's defeat, what name was Aragorn crowned as?",
+        "Answer": "King Elessar"
+    },
+    {
+        "Question": "What relation is Frodo to Bilbo Baggins?",
+        "Answer": "Cousin"
+    },
+    {
+        "Question": "How many rings were created for Men?",
+        "Answer": "9"
+    },
+    {
+        "Question": "What are Denethor II's 2 sons called?",
+        "Answer": "Boromir and Faramir"
+    },
+    {
+        "Question": "What age does Bilbo celebrate turning in The Fellowship of the Ring?",
+        "Answer": "111"
+    },
+    {
+        "Question": "Who kills Saruman the White?",
+        "Answer": "Grima Wormtongue"
+    },
+    {
+        "Question": "What is the name of the story Bilbo wrote about his adventures?",
+        "Answer": "There and Back Again: A Hobbit's Tale by Bilbo Baggins"
+    },
+    {
+        "Question": "The Battle of the Pelennor Fields was fought to defend which city?",
+        "Answer": "Minas Tirith"
+    },
+    {
+        "Question": "What language forms the inscription on the One Ring?",
+        "Answer": "Black Speech"
+    },
+    {
+        "Question": "Who killed the Witch-king of Angmar in The Return of the King?",
+        "Answer": "Eowyn"
+    },
+    {
+        "Question": "What type of bread do Sam and Frodo eat on their journey?",
+        "Answer": "Lembas bread"
+    },
+    {
+        "Question": "How many Black Riders are sent to retrieve the ring from Frodo in the Shire?",
+        "Answer": "9"
+    },
+    {
+        "Question": "What was the password to open the gates to Moria?",
+        "Answer": "Mellon, the Elvish word for friend"
+    },
+    {
+        "Question": "The Balrog fought by Gandalf is also known by what name?",
+        "Answer": "Durin's Bane"
+    },
+    {
+        "Question": "What 2 gifts does Bilbo give to Frodo at Rivendell?",
+        "Answer": "His sword Sting and a mithril vest"
+    },
+    {
+        "Question": "Who voices Treebeard?",
+        "Answer": "John Rhys-Davies"
+    },
+    {
+        "Question": "What do Merry and Pippin steal from Gandalf in the Shire?",
+        "Answer": "Fireworks"
+    },
+    {
+        "Question": "Which character ruled Lothlorien?",
+        "Answer": "Galadriel"
+    },
+    {
+        "Question": "What sword does Elrond give to Aragorn?",
+        "Answer": "Anduril"
+    },
+    {
+        "Question": "Who does Gandalf find eaves-dropping at the window of Bag End?",
+        "Answer": "Samwise Gamgee"
+    },
+    {
+        "Question": "What name is given to the large elephant-like creatures used in battle?",
+        "Answer": "Mumakil or Oliphaunts"
+    },
+    {
+        "Question": "Which character becomes the King of Rohan after Theoden dies on Pelennor Fields?",
+        "Answer": "Eomer"
+    },
+    {
+        "Question": "What are the surnames of Merry and Pippin?",
+        "Answer": "Took and Brandybuck"
+    },
+    {
+        "Question": "What is the name of the inn where Frodo and the hobbits first meet Aragorn?",
+        "Answer": "The Prancing Pony"
+    },
+    {
+        "Question": "Who cut the One Ring from Sauron's finger?",
+        "Answer": "Isildur"
+    },
+    {
+        "Question": "What fake name did Gandalf give to Frodo before he left the Shire?",
+        "Answer": "Mr. Underhill"
+    },
+    {
+        "Question": "Gandalf tells Aragorn to look east at dawn on which day?",
+        "Answer": "The 5th day"
+    },
+    {
+        "Question": "Which character does Aragorn marry after he is crowned King of Gondor?",
+        "Answer": "Arwen"
+    },
+    {
+        "Question": "Which 3 characters leave Middle Earth along with the elves at the end of The Return of the King?",
+        "Answer": "Bilbo, Frodo and Gandalf"
+    },
+    {
+        "Question": "What colour is the gate of Mordor?",
+        "Answer": "Black"
+    },
+    {
+        "Question": "Who does Samwise marry at the end of the trilogy?",
+        "Answer": "Rosie Cotton"
+    },
+    {
+        "Question": "Which character says: 'One does not simply walk into Mordor?'",
+        "Answer": "Boromir"
+    },
+    {
+        "Question": "What colour does Frodo's sword glow when orcs are nearby?",
+        "Answer": "Blue"
+    },
+    {
+        "Question": "How does Gandalf escape from Isengard?",
+        "Answer": "The Great Eagles save him"
+    },
+    {
+        "Question": "What is Samwise's occupation?",
+        "Answer": "Gardener"
+    },
+    {
+        "Question": "Who did Smeagol kill on his birthday after he discovered the ring in a river?",
+        "Answer": "Deagol, his best friend and cousin"
+    },
+    {
+        "Question": "Which character says: \"My friends, you bow to no one\"?",
+        "Answer": "Aragorn (to Frodo, Sam, Merry and Pippin)"
+    },
+    {
+        "Question": "What does Eowyn mean?",
+        "Answer": "Horse Joy"
+    },
+    {
+        "Question": "What is the full name of Pippin?",
+        "Answer": "Peregrin Took"
+    },
+    {
+        "Question": "Who wrote The Lord of the Rings?",
+        "Answer": "J.R.R. Tolkien"
+    },
+    {
+        "Question": "In 'Lord of the Rings' who does Sam marry?",
+        "Answer": "Rosie Cotton"
+    },
+    {
+        "Question": "Who is Frodo's uncle?",
+        "Answer": "Bilbo"
+    },
+    {
+        "Question": "What elf came to the aid of Strider and the hobbits on their journey from Weathertop to Rivendell?",
+        "Answer": "Glorfindel"
+    },
+    {
+        "Question": "What is the name of the dwarf who joins the fellowship and who is the father of Gimli?",
+        "Answer": "Gloin"
+    },
+    {
+        "Question": "What did the Ents lose?",
+        "Answer": "The ent wives"
+    },
+    {
+        "Question": "Who was Sharkey?",
+        "Answer": "Saruman"
+    },
+    {
+        "Question": "Who possesses the ring of power at the start of 'Fellowship of the Ring'?",
+        "Answer": "Bilbo"
+    },
+    {
+        "Question": "Who do the hobbits encounter at the Prancing Pony?",
+        "Answer": "Strider"
+    },
+    {
+        "Question": "Who is the first member of the fellowship of the ring to be separated from the group?",
+        "Answer": "Gandalf"
+    },
+    {
+        "Question": "What was the name of Liv Tyler's character in 'Lord of the Rings'?",
+        "Answer": "Arwen"
+    },
+    {
+        "Question": "Who is the wizard in 'The Lord of the Rings'?",
+        "Answer": "Gandalf"
+    },
+    {
+        "Question": "Who is the main antagonist of the 'Lord of the Rings'?",
+        "Answer": "Sauron"
+    },
+    {
+        "Question": "What is the name of the dwarf in the fellowship?",
+        "Answer": "Gimli"
+    },
+    {
+        "Question": "Who has been following Sam and Frodo?",
+        "Answer": "Gollum"
+    },
+    {
+        "Question": "Which 'Lord of the Rings' character has the alias Strider?",
+        "Answer": "Aragorn"
+    },
+    {
+        "Question": "What type of blade was Frodo stabbed with?",
+        "Answer": "Morgul Blade"
+    },
+    {
+        "Question": "What race are Frodo and Bilbo Baggins?",
+        "Answer": "Hobbits"
+    },
+    {
+        "Question": "From whom does Frodo learn that Boromir has died?",
+        "Answer": "Faramir"
+    },
+    {
+        "Question": "Where does Theoden decide to send his people?",
+        "Answer": "Rivendell"
+    },
+    {
+        "Question": "To what race did Aragorn belong?",
+        "Answer": "Men"
+    },
+    {
+        "Question": "What's an alternative name for an orc?",
+        "Answer": "Goblin"
+    },
+    {
+        "Question": "Smeagol was the original name of which character in The Lord of the Rings?",
+        "Answer": "Gollum"
+    },
+    {
+        "Question": "What was the name of the dwarf in the fellowship?",
+        "Answer": "Gimli"
+    },
+    {
+        "Question": "Gimli is the son of which Lord of the Rings character?",
+        "Answer": "2003"
+    },
+    {
+        "Question": "Who married Aragorn towards the end of The Return of the King?",
+        "Answer": "Arwen"
+    },
+    {
+        "Question": "What is the name of the Ent who befriends Merry and Pippin in Fanghorn forest?",
+        "Answer": "Treebeard"
+    },
+    {
+        "Question": "Treebeard is a character who assists in the battle against Isengard. What race is Treebeard?",
+        "Answer": "Ent"
+    },
+    {
+        "Question": "Who is Tom Bombadil's wife?",
+        "Answer": "Goldberry"
+    },
+    {
+        "Question": "Who was Shelob's mother?",
+        "Answer": "Ungoliant"
+    },
+    {
+        "Question": "Who is Denethor's father?",
+        "Answer": "Ecthelion"
+    },
+    {
+        "Question": "To what race did Gimli belong?",
+        "Answer": "Dwarves"
+    },
+    {
+        "Question": "To what race did Legolas belong?",
+        "Answer": "Elves"
+    },
+    {
+        "Question": "Who was the eldest son of Denethor II?",
+        "Answer": "Boromir"
+    },
+    {
+        "Question": "What alphabet (runes) is used by the language of Mordor?",
+        "Answer": "Elven Alphabet"
+    },
+    {
+        "Question": "The last bastion between Minas Tirith and Mordor was where?",
+        "Answer": "Osgiliath"
+    },
+    {
+        "Question": "What is Imladris better known as?",
+        "Answer": "Rivendell"
+    },
+    {
+        "Question": "What is the name of the fictional world where 'Lord of the Rings' is set?",
+        "Answer": "Middle-earth"
+    },
+    {
+        "Question": "The Lord of the Nazgul dwells in which city?",
+        "Answer": "Minas Morgul"
+    },
+    {
+        "Question": "What do the elves call Gandalf?",
+        "Answer": "Mithrandir"
+    },
+    {
+        "Question": "Where in Middle Earth are Bilbo and Frodo Baggins from?",
+        "Answer": "The Shire"
+    },
+    {
+        "Question": "Where does Old Man Willow live?",
+        "Answer": "The Old Forest"
+    }
+]

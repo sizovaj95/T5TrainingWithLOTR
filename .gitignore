@@ -1,0 +1,6 @@
+models/
+.idea
+.ipynb_checkpoints
+__pycache__/
+raw_data/
+*tokenizer*
