@@ -10,6 +10,7 @@ import numpy as np
 import math
 
 import constants as co
+import util
 
 
 def clean_text(txt: str) -> str:
@@ -60,5 +61,11 @@ def main():
             df.to_csv(co.DATA_FOLDER / co.LOTR_TEXT_TRAIN_DATA, index=False)
 
 
+def clean_data_from_irregular_characters():
+    data = pd.read_csv(co.DATA_FOLDER/ co.LOTR_TEXT_TRAIN_DATA)
+    data['text'] = data['text'].apply(lambda x: util.replace_all_non_compliant_chars(x))
+    data.to_csv(co.DATA_FOLDER / co.LOTR_TEXT_TRAIN_DATA, index=False)
+
+
 if __name__ == "__main__":
-    main()
+    clean_data_from_irregular_characters()

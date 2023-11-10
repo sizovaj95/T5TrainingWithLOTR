@@ -116,7 +116,7 @@ def print_test_results(model: T5ForConditionalGeneration, tokenizer: T5Tokenizer
 
 
 def load_and_split_data() -> tuple:
-    data = pd.read_csv("lotr_train_data.csv")
+    data = pd.read_csv("training_data/lotr_train_data.csv")
     train_df, test_df = train_test_split(data, train_size=TRAIN_FRACTION, random_state=RANDOM_SEED)
     return train_df, test_df
 
@@ -252,7 +252,7 @@ def test_trained_model():
 
 if __name__ == "__main__":
     start = time.time()
-    # main()
+    main()
     # get_max_token_numbers_from_training_data()
-    test_trained_model()
+    # test_trained_model()
     print("Time taken: {0:.2f} s".format(time.time() - start))

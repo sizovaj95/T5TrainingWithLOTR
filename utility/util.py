@@ -2,9 +2,35 @@ import math
 import random
 import re
 import numpy as np
+from datetime import datetime as dt
+import torch
+from pathlib import Path
 
 noise_density = 0.15
 mean_noise_span_length = 3
+
+
+char_map = {
+    "’": "'",
+    "‘": "'",
+    "“": "\"",
+    "”": "\"",
+    "–": "-",
+    "û": "u",
+    "é": "e",
+    "É": "E",
+    "È": "E",
+    "ó": "o",
+    "ú": "u",
+    "&": "and",
+    "Ì": "I",
+    "Í": "I",
+    "Ó": "O",
+    "Ú": "U",
+    "á": "a",
+    "í": "i",
+    "ä": "a"
+}
 
 
 def apply_sentinel_tokens(text: str, mask: list[int], to_mask: int) -> str:
@@ -122,3 +148,19 @@ def random_spans_noise_mask(length: int, num_noise_tokens=None) -> np.ndarray:
     is_noise = np.equal(span_num % 2, 1)
 
     return is_noise[:orig_length]
+
+
+def save_model(model, model_name: str):
+    save_folder = Path(__file__).parent.parent.resolve() / "models"
+    try:
+        print(f"Saving {model_name}")
+        torch.save(model, str(save_folder) + '//' + model_name)
+    except Exception as er:
+        print(f"Failed to save {model_name}: {er}")
+
+
+def replace_all_non_compliant_chars(text: str) -> str:
+    for incorrect, correct in char_map.items():
+        if re.search(incorrect, text):
+            text = re.subn(incorrect, correct, text)[0]
+    return text
